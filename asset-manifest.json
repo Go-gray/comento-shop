@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Go-gray/comento-shop.git/static/css/main.073c9b0a.css",
+    "main.js": "/Go-gray/comento-shop.git/static/js/main.975988c4.js",
+    "static/js/787.cfce31c4.chunk.js": "/Go-gray/comento-shop.git/static/js/787.cfce31c4.chunk.js",
+    "static/media/logo.svg": "/Go-gray/comento-shop.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Go-gray/comento-shop.git/index.html",
+    "main.073c9b0a.css.map": "/Go-gray/comento-shop.git/static/css/main.073c9b0a.css.map",
+    "main.975988c4.js.map": "/Go-gray/comento-shop.git/static/js/main.975988c4.js.map",
+    "787.cfce31c4.chunk.js.map": "/Go-gray/comento-shop.git/static/js/787.cfce31c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.975988c4.js"
+  ]
+}
